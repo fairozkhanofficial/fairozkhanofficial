@@ -6,6 +6,7 @@ I like taking a messy dataset and getting it to say something useful. Everything
 
 ## Projects worth your time
 
+- [hackerrank-orchestrate](https://github.com/fairozkhanofficial/hackerrank-orchestrate) - multi-modal evidence review pipeline for damage claims, ranked #79 / 1,773 in HackerRank Orchestrate (June 2026)
 - [coffee-shop-analysis](https://github.com/fairozkhanofficial/coffee-shop-analysis) - 149K transactions, $698.8K in revenue, four findings on peak hours and product mix
 - [Fruit-Image-Classifier-with-CNNs](https://github.com/fairozkhanofficial/Fruit-Image-Classifier-with-CNNs) - ResNet50 fine-tuned to 99.65% test accuracy, including how the first version cheated using image backgrounds and how I fixed it
 - [NLP-based-Healthcare-dataset-cleaning](https://github.com/fairozkhanofficial/NLP-based-Healthcare-dataset-cleaning) - pipeline that standardizes messy medical records with fuzzy matching and dedup rules
@@ -14,7 +15,7 @@ I like taking a messy dataset and getting it to say something useful. Everything
 
 ## Tools
 
-Python (pandas, numpy), SQL, matplotlib and seaborn, scikit-learn, PyTorch for the CNN work, Streamlit, Excel. Working through statistics and advanced SQL right now.
+Python (pandas, numpy), SQL, matplotlib and seaborn, scikit-learn, PyTorch for the CNN work, Gemini API, Streamlit, Excel. Working through statistics and advanced SQL right now.
 
 ## Contact
 
