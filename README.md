@@ -11,6 +11,7 @@ I like taking a messy dataset and getting it to say something useful. Everything
 - [Fruit-Image-Classifier-with-CNNs](https://github.com/fairozkhanofficial/Fruit-Image-Classifier-with-CNNs) - ResNet50 fine-tuned to 99.65% test accuracy, including how the first version cheated using image backgrounds and how I fixed it
 - [NLP-based-Healthcare-dataset-cleaning](https://github.com/fairozkhanofficial/NLP-based-Healthcare-dataset-cleaning) - pipeline that standardizes messy medical records with fuzzy matching and dedup rules
 - [AI-Mental-Fitness-Tracker](https://github.com/fairozkhanofficial/AI-Mental-Fitness-Tracker) - four regression models compared on OWID mental health data, random forest hit R2 0.993 on test
+- [expense-tracker](https://github.com/fairozkhanofficial/expense-tracker) - CLI expense tracker with CSV storage, date validation, monthly filtering, auto-save
 - [quickbite-analysis](https://github.com/fairozkhanofficial/quickbite-analysis) - SQL-heavy food delivery analysis with an executive summary
 
 ## Tools
